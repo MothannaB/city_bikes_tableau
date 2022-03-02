@@ -1,7 +1,7 @@
   
 # NYC Bike Sharing Analysis via Tableau
 
-## Overiew
+## Overview
 The goal of this exercise is to investigate the prospects of a bike sharing
 program in Des Moines through analysis of data via NYC.
 
