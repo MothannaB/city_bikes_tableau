@@ -135,31 +135,6 @@ Potential applications include:
 - Supporting executive reporting
 - Informing infrastructure investment decisions
 
----
-
-
-
-> **Note:** Update the folder structure above to match the contents of your repository.
-
----
-
-## Dashboard Preview
-
-### Executive Dashboard
-
-![Executive Dashboard](images/dashboard_overview.png)
-
-### Checkout Time Analysis
-
-![Checkout Time Analysis](images/checkout_times.png)
-
-### Station Performance
-
-![Station Performance](images/station_analysis.png)
-
-### Rider Behavior
-
-![Rider Behavior](images/rider_behavior.png)
 
 
 
