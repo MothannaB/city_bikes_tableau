@@ -1,5 +1,7 @@
 # Urban Bike Share Performance Analytics Platform
 
+Tableau Dashboard link : https://public.tableau.com/app/profile/mothanna.a.battah/viz/NYC_Citybike_16418530920590/CheckoutTimesforUsers
+
 ## Overview
 
 The **Urban Bike Share Performance Analytics Platform** is a business intelligence project that demonstrates how interactive analytics can support operational and strategic decision-making within a large-scale bike-sharing network.
